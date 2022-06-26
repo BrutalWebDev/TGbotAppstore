@@ -1,1 +1,0 @@
-<?php header("Referrer-Policy: no-referrer-when-downgrade"); ?>
